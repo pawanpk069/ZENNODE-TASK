@@ -1,4 +1,4 @@
-# ZENNODE-TASK
+# ZENNODE-TASK - 1:
 # Completion of Zennode task.
 class ShoppingCart:
     def __init__(self):
@@ -62,3 +62,26 @@ for product_name in cart.products.keys():
         cart.products[product_name]["price"] += quantity  # Gift wrap fee: $1 per unit
 
 cart.display_cart()
+
+
+# ZENNODE-TASK - 2:
+
+# Why do you like to join as a Software developer?
+# ANS: since childhood i like computers playing games on it. It always made me curious how they are made and that is the reason i want to become software developer.
+
+# List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+# ANS: 1. mySQL: SQL is fundamental for interacting with relational databases. Its syntax allows for efficient querying, updating, and managing of database #records, making it an essential tool for anyone working with structured data.
+     # 2. JAVASCRIPT: we can as interactive langugae it is easy to learn and very compatible.
+     # 3. JAVA: java is versatile and object oriented langugae. it xcan be use to develop wide range of applications.
+# List top 3 organisations you like to join in your career & why you like these organisations.
+# ANS: 1. Google: Because of the innovative culture and new skills i can learn from there.
+     # 2. KPIT Technologies: I like automotive industires and they are really innovative these dates.
+     # 3. Tesla: Tesla is led by Elon Musk. he's innovative ideas inspires me. he is my inspiration. Maybe that is the reason i like to work there.
+
+# How you position yourself in this industry after 2 years.
+# ANS: I see myself as a highly skilled professional in tech industry. My primary focus will be continuous skill development.
+
+# List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+# Ans: I have developed small projects such as Realtime Chat Application, Amazon Website clone and by using SQL analytics Zomato Application
+
+
