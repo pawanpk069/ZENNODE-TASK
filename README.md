@@ -1,5 +1,5 @@
 # ZENNODE-TASK
-Completion of Zennode task.
+# Completion of Zennode task.
 class ShoppingCart:
     def __init__(self):
         self.products = {"Product A": {"price": 20, "quantity": 0},
